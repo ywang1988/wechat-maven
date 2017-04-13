@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wx-autoreplys>
+    <wx-autoreply type="subscribe">
+        <autoreply>
+            <rule>subscribe</rule>
+            <content>
+                亲,您太有眼光了~~;;
+                谢谢您的关注,请按照以下规则进行操作：;
+                回复1: 试一下!!!!!;
+                回复2: 你懂的!!!!!;
+                回复?，重新查看规则，回复姓名有惊喜!
+            </content>
+        </autoreply>
+    </wx-autoreply>
+    <wx-autoreply type="keywords">
+        <autoreply>
+            <rule>1,一</rule>
+            <content>
+                这是一个测试系统，正在完善中！！！
+            </content>
+        </autoreply>
+        <autoreply>
+            <rule>2,二</rule>
+            <content>
+                没有什么你懂的，你想多了！！！
+            </content>
+        </autoreply>
+        <autoreply>
+            <rule>？,?</rule>
+            <content>
+                谢谢您的关注,请按照以下规则进行操作：;
+                回复1: 试一下!!!!!;
+                回复2: 你懂的!!!!!;
+                回复?，重新查看规则，回复姓名有惊喜!
+            </content>
+        </autoreply>
+        <autoreply>
+            <rule>wc,王超</rule>
+            <content>
+                超哥威武！
+            </content>
+        </autoreply>
+        <autoreply>
+            <rule>lyy,刘阳阳</rule>
+            <content>
+                老刘,what are you 弄啥嘞！
+            </content>
+        </autoreply>
+        <autoreply>
+            <rule>ly,刘琰</rule>
+            <content>
+                你好，小炎炎
+            </content>
+        </autoreply>
+        <autoreply>
+            <rule>wy,王英</rule>
+            <content>
+                就知道你们输入我的名字
+            </content>
+        </autoreply>
+    </wx-autoreply>
+    <wx-autoreply type="other">
+        <autoreply>
+            <rule>other</rule>
+            <content>
+                谢谢您的关注,请按照以下规则进行操作：;
+                回复1: 试一下!!!!!;
+                回复2: 你懂的!!!!!;
+                回复?，重新查看规则，回复姓名有惊喜!
+            </content>
+        </autoreply>
+    </wx-autoreply>
+</wx-autoreplys>

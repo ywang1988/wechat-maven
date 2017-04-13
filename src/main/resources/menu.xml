@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <complexbutton name="一级菜单1">
+        <button type="click">
+            <name>
+                1-1
+            </name>
+            <key>
+
+            </key>
+        </button>
+        <button type="click">
+            <name>
+                1-2
+            </name>
+            <key>
+
+            </key>
+        </button>
+    </complexbutton>
+    <complexbutton name="一级菜单2">
+        <button type="view">
+            <name>
+                2-1
+            </name>
+            <url>
+
+            </url>
+        </button>
+        <button type="view">
+            <name>
+                2-2
+            </name>
+            <url>
+
+            </url>
+        </button>
+    </complexbutton>
+    <complexbutton name="一级菜单3">
+        <button type="click">
+            <name>
+                3-1
+            </name>
+            <key>
+
+            </key>
+        </button>
+        <button type="view">
+            <name>
+                3-2
+            </name>
+            <url>
+
+            </url>
+        </button>
+    </complexbutton>
+</menu>
